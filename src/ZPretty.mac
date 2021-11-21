@@ -1,10 +1,12 @@
-ROUTINE ZPretty
+eROUTINE ZPretty
 ZPretty ; make JSON readable
 #; input= JSON string | stream | %DynamicAbstractObject
 #; indent filler  ; "" => no indent         
 #define fill "  "
 #; New line code   ; "" => no Lines
 #define crlf $c(13,10)
+
+#; nice design
 
 Do(input,fil,nl) public {
     S fil=$g(fil,$$$fill),nl=$g(nl,$$$crlf), sc=1,res="",indt=""
