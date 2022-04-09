@@ -92,6 +92,6 @@ NO
 [Article in DC](https://community.intersystems.com/post/wrap-json-multi-lines-test-isjson)   
 
 [Demo Server SMP](https://pretty-json.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
-[Demo Server WebTerminal](https://pretty-json.community.intersystems.com/terminal/)    
+[Demo Server WebTerminal](https://pretty-json.demo.community.intersystems.com/terminal/)    
         
 **Code Quality** in SCREENSHOTS 
