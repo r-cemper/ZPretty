@@ -1,9 +1,4 @@
 # Wrap JSON to multi lines / Test ISJSON 
-~~~
-   This is a coding example working on Caché 2018.1.3 and IRIS 2020.2
-   It will not be kept in sync with new versions   
-   It is also NOT serviced by InterSystems Support !
-~~~
 
 ### install and usage ###  
 Packed Pretty.xml installs routine ZPretty in any namespace.  
