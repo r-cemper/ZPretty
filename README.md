@@ -94,4 +94,5 @@ NO
 [Demo Server SMP](https://pretty-json.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
 [Demo Server WebTerminal](https://pretty-json.demo.community.intersystems.com/terminal/)    
         
-**Code Quality** in SCREENSHOTS 
+**Code Quality**    
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/820/screenshots/pqxues5vk0dit3oglardceotupe.jpg">
