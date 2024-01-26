@@ -11,7 +11,7 @@ _input_ accepts: JSON_String, JSON_Stream, %DynamicAbstractObject
 
 ^Pretty leaves all error trapping to you. So can use it as ISJSON check.  
 
-Set flat=$$Do^Pretty(input,"","") removes all formatting from input.  
+Set flat=$$Do^ZPretty(input,"","") removes all formatting from input.  
 this could be useful to compare 2 differn formatte JSON_Strings. 
 
 ### examples ###  
