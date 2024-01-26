@@ -1,5 +1,3 @@
-<p align="right"><img src="https://github.com/isc-at/CPIPE/blob/master/archived.jpg"/></p>
-
 ## Wrap JSON to multi lines / Test ISJSON 
 
 ### install and usage ###  
