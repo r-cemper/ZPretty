@@ -3,7 +3,7 @@
 ## Wrap JSON to multi lines / Test ISJSON 
 
 ### install and usage ###  
-Packed Pretty.xml installs routine ZPretty in any namespace.  
+Packed ZPretty.xml installs routine ZPretty in any namespace.  
 calling $$Do^ZPretty(input,\[filler],\[newline]) returns a wrapped JSON string.   
 _filler_ is the optional string for the indent, default = "  "  
 _newline_ is optional, default =  $C(13,10)  <CR><LF>    
