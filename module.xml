@@ -3,12 +3,13 @@
   <Document name="pretty-json.ZPM">
     <Module>
       <Name>pretty-json</Name>
-      <Version>1.1.0</Version>
+      <Version>1.1.1</Version>
       <Description>JSON to multi lines + ISJSON</Description>
       <Keywords>Terminal, COS</Keywords>
       <Packaging>module</Packaging>
+      <Resource Name="ZPretty.MAC"/>
+      <LifecycleClass>%IPM.Lifecycle.Module</LifecycleClass>
       <SourcesRoot>src</SourcesRoot>
-       <Resource Name="ZPretty.MAC"/>
     </Module>
   </Document>
 </Export>
